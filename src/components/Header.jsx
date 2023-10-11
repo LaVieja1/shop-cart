@@ -69,7 +69,7 @@ export default function Header({ cartLength }) {
                             <Link to="/">Home</Link>
                         </li>
                         <li className="mx-4">
-                            <Link to="shop/products">Tienda</Link>
+                            <Link to="shop/products">Shop</Link>
                         </li>
                     </ul>
                 </div>
@@ -104,7 +104,7 @@ export default function Header({ cartLength }) {
                             <Link to="/">Home</Link>
                         </li>
                         <li className="">
-                            <Link to="shop/products">Tienda</Link>
+                            <Link to="shop/products">Shop</Link>
                         </li>
                     </ul>
                 </div>
