@@ -1,8 +1,8 @@
-# React + Vite
+# Pagina de shopping cart
+Usando Vite con React
+![image](https://github.com/LaVieja1/shop-cart/assets/65514301/d35a0640-253b-41c1-a9f5-e2a939a0ebe0)
+![image](https://github.com/LaVieja1/shop-cart/assets/65514301/898038cc-db0c-4436-9f73-6b777c5ccbba)
+![image](https://github.com/LaVieja1/shop-cart/assets/65514301/4a3ffcb7-718d-4604-9f72-05b5dd336200)
+![image](https://github.com/LaVieja1/shop-cart/assets/65514301/3ed06c77-5a06-4de8-b7bb-94f01571dfc8)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Ver página](https://shop-cart-roan.vercel.app/)
